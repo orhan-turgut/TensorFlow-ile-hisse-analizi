@@ -6,4 +6,5 @@ pandas_datareader
 datetime
 scikit-learn
 tensorflow
+yfinance
 
