@@ -1,6 +1,6 @@
 streamlit
 numpy
-matplotlib.pyplot
+matplotlib
 pandas
 pandas_datareader
 datetime
