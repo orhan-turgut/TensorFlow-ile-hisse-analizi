@@ -3,7 +3,6 @@ numpy
 matplotlib
 pandas
 pandas_datareader
-datetime
 scikit-learn
 tensorflow
 yfinance
